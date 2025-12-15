@@ -1,0 +1,7 @@
+.contact-list {
+    list-style: none;
+    padding: 0;
+  }
+  .contact-list__empty {
+    color: #555;
+  }

@@ -1,0 +1,20 @@
+*{
+    background: rgb(248, 206, 248);
+}
+.contact-form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.contact-form__input {
+  padding: 6px 8px;
+  border: 1px solid #b197d6;
+}
+.contact-form__button {
+  background-color: #7b2cbf;
+  color: white;
+}
+.contact-form__button:hover {
+  background-color: #6a23a8;
+  transform: translateY(-1px);
+}

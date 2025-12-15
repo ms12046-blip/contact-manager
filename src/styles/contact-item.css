@@ -1,0 +1,20 @@
+.contact-item {
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  }
+.contact-item__info strong {
+    color: #4a148c;
+  }
+.contact-item__info span {
+    font-size: 13px;
+  }
+.contact-item__delete {
+    background-color: #9c27b0;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+  }
+.contact-item__delete:hover {
+    background-color: #7b1fa2;
+    transform: translateY(-1px);
+  }
